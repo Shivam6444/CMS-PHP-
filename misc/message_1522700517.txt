@@ -1,0 +1,8 @@
+Issue Alert!
+Type of issue: Link not working
+
+Submitted by: Luke Skywalker
+Email ID: raghav@cs.dal.ca
+Submitted at: 05:21:57pm - on - 02.04.2018
+
+Details: This is a test error message.
